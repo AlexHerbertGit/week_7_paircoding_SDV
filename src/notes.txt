@@ -1,0 +1,2 @@
+npm init -y Installs json packages and librarys 
+npm i nodemon Installs nodemon package
