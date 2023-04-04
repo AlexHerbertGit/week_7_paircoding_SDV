@@ -17,3 +17,13 @@ function arrayOfArrays(arr) {
     return newArray
 }
 console.log(arrayOfArrays([1, 2, 3,], [4, 5, 6,], [10, 20, 100]))
+
+function rectangleArea(w,h) {
+    if(typeof w !== 'number' ||typeof h !== 'number' || w <= 0 || h <= 0) {
+        return "Error must be positive number"
+    } else {
+    const area = w * h;
+    return area;
+    }
+}
+console.log(rectangleArea(4,8))
