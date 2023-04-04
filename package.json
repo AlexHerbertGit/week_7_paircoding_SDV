@@ -1,0 +1,25 @@
+{
+  "name": "week_7_paircoding_sdv",
+  "version": "1.0.0",
+  "description": "json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexHerbertGit/week_7_paircoding_SDV.git"
+  },
+  "keywords": [
+    "paircoding"
+  ],
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexHerbertGit/week_7_paircoding_SDV/issues"
+  },
+  "homepage": "https://github.com/AlexHerbertGit/week_7_paircoding_SDV#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
